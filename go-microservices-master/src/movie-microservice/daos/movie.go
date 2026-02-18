@@ -11,11 +11,11 @@ import (
 	"gopkg.in/mgo.v2/bson"
 )
 
-// Movie manages Movie CRUD siraj
+// Movie manages Movie CRUD
 type Movie struct {
 }
 
-// COLLECTION of the database table 
+// COLLECTION of the database table
 const (
 	COLLECTION = "movies"
 )
