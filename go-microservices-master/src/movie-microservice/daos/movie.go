@@ -11,7 +11,7 @@ import (
 	"gopkg.in/mgo.v2/bson"
 )
 
-// Movie manages Movie CRUD SIRAJ authtor
+// Movie manages Movie CRUD
 type Movie struct {
 }
 
