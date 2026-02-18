@@ -15,7 +15,7 @@ import (
 type Movie struct {
 }
 
-// COLLECTION of the database table details
+// COLLECTION of the database table 
 const (
 	COLLECTION = "movies"
 )
