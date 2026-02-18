@@ -18,7 +18,7 @@ import (
 	"gopkg.in/mgo.v2/bson"
 )
 
-// Movie manages Movie CRUD and example programs
+// Movie manages Movie CRUD and example programs files
 type Movie struct {
 	movieDAO daos.Movie
 }
