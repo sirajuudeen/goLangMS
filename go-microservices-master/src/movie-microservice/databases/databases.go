@@ -5,7 +5,7 @@
  */
 package databases
 
-// Database shares global database instance
+// Database shares global database instance details
 var (
 	Database MongoDB
 )
